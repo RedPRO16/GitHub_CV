@@ -1,7 +1,7 @@
 ## Nesho RADEV
 Who graduated from the engineering department and pursued with MBA in the International business management field. I used to work as an import and export manager for international companies. Since covid restriction, I decided to kick my career in the tech field.
-I’ve been on a self-learning coding journey for a year and looking forward to accelerating this process within a supportive and friendly environment with you!
-I have improved my coding skill for HTML, CSS and basic PYTHON while still trying to get further knowledge of blockchain and web3 applications of my interests. I decided to make a switch and start the software development bootcamp with Makers.
+I’ve been on a self-learning coding journey for a year and looking forward to accelerating this process within a supportive and friendly environment with intensive bootcamp.
+I have improved my coding skill for HTML, CSS and basic PYTHON while still trying to get further knowledge of blockchain and web3 applications of my interests. Therefore, I decided to make a switch and start the software development bootcamp with Makers.
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
