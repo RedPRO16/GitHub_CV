@@ -48,7 +48,7 @@ Project Engineer
 
 ## Education
 #### Makers Academy (Jun 2022 to Oct 2022)
-A 16-week bootcamp:
+16-week bootcamp:
 - Ruby , SQL , JS
 - Twitter, AIRBNB clone projects
 
