@@ -6,7 +6,7 @@ I have improved my coding skill for HTML, CSS and basic PYTHON while still tryin
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Golden SQ                    |  TDD process      | RUBY, Debuggin    |
+| Golden SQ                    |  TDD process      | RUBY, Debugging    |
 | Chitter                      |  Twitter clone    | RUBY, SQL, HTML   |
 | MakerBNB                     |  AIRBNB clone     | RUBY, SQL, HTML   |
 ## Work Experience
