@@ -2,13 +2,13 @@
 Who graduated from the engineering department and pursued with MBA in the International business management field. I used to work as an import and export manager for international companies. Since covid restriction, I decided to kick my career in the tech field.
 I’ve been on a self-learning coding journey for a year and looking forward to accelerating this process within a supportive and friendly environment with you!
 I have improved my coding skill for HTML, CSS and basic PYTHON while still trying to get further knowledge of blockchain and web3 applications of my interests. I decided to make a switch and start the software development bootcamp with Makers.
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Chitter                      |  Twitter clone    |    RUBY, SQL      |
-
+| Golden SQ                    |  TDD process      | RUBY, Debuggin    |
+| Chitter                      |  Twitter clone    | RUBY, SQL, HTML   |
+| MakerBNB                     |  AIRBNB clone     | RUBY, SQL, HTML   |
 ## Work Experience
 
 **VR System Solution** (Oct 2020...)
@@ -30,15 +30,15 @@ Project Engineer
 
 ## Skills-Specialities
 
-•	Emphasizes work discipline and business safety with excellent customer feedback return.
-•	Advanced knowledge and experience for product and process development with engineering solutions.
-•	Highly focused and determination follow company targets.
-•	Experience computer aided design, programming, automation, robot applications include office programs.
-•	Analytical, problem-solving skills, communication.
-•	Building confident relationships with customers with better work protocol
-•	Sales/Business Development/Account Management experience.
-•	Responsible and focus on the best results cost reduction with high profitable in optimum time frame.
-•	Multi nationality citizenship British – Turkish - Bulgarian. (Visa free travel and no work restrictions to worldwide)
+-	Emphasizes work discipline and business safety with excellent customer feedback return.
+-	Advanced knowledge and experience for product and process development with engineering solutions.
+-	Highly focused and determination follow company targets.
+-	Experience computer aided design, programming, automation, robot applications include office programs.
+-	Analytical, problem-solving skills, communication.
+-	Building confident relationships with customers with better work protocol
+-	Sales/Business Development/Account Management experience.
+-	Responsible and focus on the best results cost reduction with high profitable in optimum time frame.
+-	Multi nationality citizenship British – Turkish - Bulgarian. (Visa free travel and no work restrictions to worldwide)
 
 ## Communication
 
