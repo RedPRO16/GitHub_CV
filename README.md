@@ -7,11 +7,11 @@ I have improved my coding skill for HTML, CSS and basic PYTHON while still tryin
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Coming soon!**             |                   |                   |
+| Chitter                      |  Twitter clone    |    RUBY, SQL      |
 
 ## Work Experience
 
-**VR System Solution** (Oct 2020...)  
+**VR System Solution** (Oct 2020...)
 Regional Sales Management
 
 •	Industrial Virtual Reality System services.
@@ -20,7 +20,7 @@ Regional Sales Management
 •	Practical knowledge-oriented VR applications
 •	Orientation applications
 
-**Albron Engineering & Design** (Jan 2020...)  
+**Albron Engineering & Design** (Jan 2020...)
 Project Engineer
 
 • Machinery Revision and CNC Machining.
@@ -28,43 +28,53 @@ Project Engineer
 •	Welding Steel Constructions.
 •	Machinery Parts supplier for leading Automobile Industries.
 
-## Skills
+## Skills-Specialities
 
-#### Communication
+•	Emphasizes work discipline and business safety with excellent customer feedback return.
+•	Advanced knowledge and experience for product and process development with engineering solutions.
+•	Highly focused and determination follow company targets.
+•	Experience computer aided design, programming, automation, robot applications include office programs.
+•	Analytical, problem-solving skills, communication.
+•	Building confident relationships with customers with better work protocol
+•	Sales/Business Development/Account Management experience.
+•	Responsible and focus on the best results cost reduction with high profitable in optimum time frame.
+•	Multi nationality citizenship British – Turkish - Bulgarian. (Visa free travel and no work restrictions to worldwide)
+
+## Communication
 
 - When pairing during my Makers course, I communicated the way I was thinking about solving various challenges we were given.
 - Whilst tutoring, I have to effectively communicate ideas to students so that they understand concepts and can use them to improve their grades.
 - Publishing articles as an Economist required good communication skills to ensure that concepts could be understood by the client.
 
-#### Organised
-At my previous jobs, people generally asked me where to find certain documents as I always knew where everything was. I also like to plan ahead to meet a deadline, and not wait until the last minute.
-
-#### Team player
-As a mechnaical engineer, you often have to work on your own projects, but I have never really understood that. I always feel you are learning twice as much when you're working on a problem together, such as pairing.
-
-#### Social
-I enjoy being involved in the organisation of socials, hence me being in all kinds of social committees in the past! It's very rewarding to see people enjoying something you put together. It's also a great way to get to know your colleagues better.
-
 ## Education
-
 #### Makers Academy (Jun 2022 to Oct 2022)
 A 16-week intensive development bootcamp focusing on:
-- Pair programming to problem solve efficiently, requiring teamwork and communication
-- Debugging
-- Ruby
+- Ruby , SQL , JS
+- Twitter, AIRBNB clone projects
+
 
 #### UWIC (University of Wales) MBA (2010 to 2011)
 Master for International Business Management
 
 #### University of Balikesir,TURKEY (2004 to 2005)
 Enginering department
-- Premaster of Building Engineering Natural Gas and Elavator
 - Bachelor of Mechnaical Enginering Constructions
+- Certified natural gas project and elavator  design and applications
 
-## Interests
+## Computer Information:
+C#(Beginner),Java(Beginner), Assembly, Visual Fortran , Microsoft Windows (98, 2000, XP, Windows 7, Windows 8, Windows 10) Microsoft Office (Excel, Access, Word, Power Point, Outlook) and Photoshop, Financial software, CRM  Formula , QuickBooks, Adobe Photoshop, Microsoft FrontPage, Macromedia Dreamweaver
+Engineering Information: Ansys , SolidWorks , AutoCAD , Pro Engineering , Catia.
+## Certificate Information
+•	AutoCAD Course – 2002/3 months - Union of Chamber of Turkish Engineers
+•	Natural Gas Technic and Project Certificate (ZETACAD) - Union of Chamber of Turkish Engineers
+•	Lifting Technic And Project Certificate - Union of Chamber of Turkish Engineers
+•	LPG Station Responsible Manager Certificate - Union of Chamber of Turkish Engineers
+•	Plumbing Competence Project Certificate - Union of Chamber of Turkish Engineers
 
-- Snowboarding, cycling and swimming
-- Traveling
-- Manufacturing and design,
-- Blockchain technology
-- Drawing
+## Organisational Membership:
+University of BAU Mechanical Engineering Faculty, BAU Cad-Cam Days, Union of Chambers of Turkish Engineers (Member of Chamber of Mechanical Engineers), Travel group admin in meet up group.
+
+## Achievements:
+ Under my management of social media and e-commerce our company received award follow by two years from DBD (The Department of Business Development ) the most developed company award. Being team member which was  placed third position to build up electric bike in sustainable energy competition.
+## Interests and Hobbies:
+ Outdoor trekking, Photography, Bowling, Snooker, Extreme sports, Technology Fairs, Golf, Travel, Crypto currency and blockchain technologies, Passion for Crypto Currency products and knowledge, Financial equity, Forex trading and advanced technical analyses.
