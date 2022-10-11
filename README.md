@@ -8,8 +8,8 @@ I have improved my coding skill for HTML, CSS and basic PYTHON while still tryin
 | ---------------------------- | ----------------- | ----------------- |
 | Golden SQ                    |  TDD process      | RUBY, Debugging   |
 | Chitter                      |  Twitter clone    | RUBY, SQL, HTML   |
-| MakerBNB                     |  AIRBNB clone     | RUBY, SQL, HTML   |
-| DIVYY                        |  Bill splitting Mobile App     | Javascript, React Native, Realm, Taggun API, EXPO|
+| MakerBNB                     |  AIRBNB clone     | RUBY, SQL, HTML, CSS   |
+| DIVYY                        | Final project at Makers. It is a bill splitting Mobile App     | React, Javascript, Node, Expo, Realm, Taggun|
 ## Work Experience
 
 **VR System Solution** (Oct 2020...)
