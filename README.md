@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests & Activities](#interests--activities)
+[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Achievements](#achievements) | [Interests & Activities](#interests--activities)
 </div>
 
 ## **About me**
@@ -85,23 +85,6 @@ Engineering Information: Ansys , SolidWorks , AutoCAD , Pro Engineering , Catia.
 •	Lifting Technic And Project Certificate - Union of Chamber of Turkish Engineers
 •	LPG Station Responsible Manager Certificate - Union of Chamber of Turkish Engineers
 •	Plumbing Competence Project Certificate - Union of Chamber of Turkish Engineers
-
-## **Achievements**
- Under my management of social media and e-commerce our company received award follow by two years from DBD (The Department of Business Development ) the most developed company award. Being team member which was  placed third position to build up electric bike in sustainable energy competition.
-
-## Computer Information:
-HTML, CSS, Visual Fortran , Microsoft Windows (98, 2000, XP, Windows 7, Windows 8, Windows 10) Microsoft Office (Excel, Access, Word, Power Point, Outlook) and Photoshop, Financial software, CRM  Formula , QuickBooks, Adobe Photoshop, Microsoft FrontPage, Macromedia Dreamweaver
-Engineering Information: Ansys , SolidWorks , AutoCAD , Pro Engineering , Catia.
-
-## Certificate Information
-•	AutoCAD Course – 2002/3 months - Union of Chamber of Turkish Engineers
-•	Natural Gas Technic and Project Certificate (ZETACAD) - Union of Chamber of Turkish Engineers
-•	Lifting Technic And Project Certificate - Union of Chamber of Turkish Engineers
-•	LPG Station Responsible Manager Certificate - Union of Chamber of Turkish Engineers
-•	Plumbing Competence Project Certificate - Union of Chamber of Turkish Engineers
-
-## Organisational Membership
-University of BAU Mechanical Engineering Faculty, BAU Cad-Cam Days, Union of Chambers of Turkish Engineers (Member of Chamber of Mechanical Engineers), Travel group admin in meet up group.
 
 ## Achievements
  Under my management of social media and e-commerce our company received award follow by two years from DBD (The Department of Business Development ) the most developed company award. Being team member which was  placed third position to build up electric bike in sustainable energy competition.
