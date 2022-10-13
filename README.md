@@ -6,7 +6,8 @@
 
 <div align="center">
 
-[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Tech stack](#tech-stack) | [Achievements](#achievements) | [Interests & Activities](#interests--activities)
+[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Tech Stack](#tech-stack) | [Achievements](#achievements) | [Interests & Activities](#interests--activities)
+ 
 </div>
 
 ## **About me**
@@ -38,18 +39,18 @@ I have improved my basic coding skill for HTML, CSS while still trying to get fu
 
 **VR System Solution** (Oct 2020...)
 Regional Sales Management
-•	Industrial Virtual Reality System services.
-•	VR promotion Applications
-•	VR Occupational Safety Applications
-•	Practical knowledge-oriented VR applications
-•	Orientation applications
+-	Industrial Virtual Reality System services.
+-	VR promotion Applications
+-	VR Occupational Safety Applications
+-	Practical knowledge-oriented VR applications
+-	Orientation applications
 
 **Albron Engineering & Design** (Jan 2020...)
 Project Engineer
-• Machinery Revision and CNC Machining.
-•	Design-Machinery-Fixture -Consultancy.
-•	Welding Steel Constructions.
-•	Machinery Parts supplier for leading Automobile Industries.
+- Machinery Revision and CNC Machining.
+-	Design-Machinery-Fixture -Consultancy.
+-	Welding Steel Constructions.
+-	Machinery Parts supplier for leading Automobile Industries.
 
 ## **Education**
 **Makers Academy (Jun 2022 to Oct 2022)**
@@ -75,7 +76,15 @@ on test driven development, pair programming and Agile practices.
 - Bachelor of Mechnaical Enginering Constructions
 - Certified natural gas project and elavator  design and applications
 
-**Tech Stack🤖**
+
+**Certificate Information**
+•	AutoCAD Course – 2002/3 months - Union of Chamber of Turkish Engineers
+•	Natural Gas Technic and Project Certificate (ZETACAD) - Union of Chamber of Turkish Engineers
+•	Lifting Technic And Project Certificate - Union of Chamber of Turkish Engineers
+•	LPG Station Responsible Manager Certificate - Union of Chamber of Turkish Engineers
+•	Plumbing Competence Project Certificate - Union of Chamber of Turkish Engineers
+
+## **Tech Stack**
 - JavaScript (React, Node.js, Express, MongoDB, jQuery, Jest, React Native, Cypress, Expo)
 - Ruby (Rails, Sinatra, RSpec)
 - SQL (PostgreSQL, TablePlus)
@@ -84,13 +93,6 @@ on test driven development, pair programming and Agile practices.
 - Heroku, Netlify, Figma, Miro
 - Git, GitHub (including Pages and Actions), GitLab
 Engineering Information: Ansys , SolidWorks , AutoCAD , Pro Engineering , Catia.
-
-**Certificate Information**
-•	AutoCAD Course – 2002/3 months - Union of Chamber of Turkish Engineers
-•	Natural Gas Technic and Project Certificate (ZETACAD) - Union of Chamber of Turkish Engineers
-•	Lifting Technic And Project Certificate - Union of Chamber of Turkish Engineers
-•	LPG Station Responsible Manager Certificate - Union of Chamber of Turkish Engineers
-•	Plumbing Competence Project Certificate - Union of Chamber of Turkish Engineers
 
 ## **Achievements**
  Under my management of social media and e-commerce our company received award follow by two years from DBD (The Department of Business Development ) the most developed company award. Being team member which was  placed third position to build up electric bike in sustainable energy competition.
