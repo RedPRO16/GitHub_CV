@@ -72,9 +72,8 @@ on test driven development, pair programming and Agile practices.
 **University of Balikesir(BAU), TURKEY (2001 to 2005)**
 
 *Enginering department*
-- Bachelor of Mechnaical Enginering Constructions
-- Certified natural gas project and elavator  design and applications
-
+- Bachelor of Mechanical Engineering Constructions
+- Certified natural gas project and elevator design and applications
 
 **Certificate Information**
 •	AutoCAD Course – 2002/3 months - Union of Chamber of Turkish Engineers
