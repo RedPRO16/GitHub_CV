@@ -12,9 +12,7 @@
 
 ## **About me**😄
 
-Who graduated from the engineering department and pursued with MBA in the International business management field. I used to work as an import and export manager for international companies. Since covid restriction, I decided to kick my career in the tech field.
-I’ve been on a self-learning coding journey for a year and looking forward to accelerating this process within a supportive and friendly environment with intensive bootcamp.
-I have improved my basic coding skill for HTML, CSS while still trying to get further knowledge of blockchain and web3 applications of my interests. Therefore, I decided to make a switch and start the software development bootcamp with Makers.
+Who graduated from the engineering department and pursued with MBA in the International business management field. I used to work as an import and export manager for international companies. Since the Covid-19 restriction, I kicked my career in the tech field. I’ve been on a self-learning-to-code journey for a year and looking forward to speeding up this process within a supportive and friendly environment with an intensive bootcamp. I have improved my basic coding skill for HTML and CSS, while still trying to get further knowledge of blockchain and web3 applications of my interests. Therefore, I made a switch and start the software development bootcamp with Makers.
 
 ## **Projects**👨‍💻
 
