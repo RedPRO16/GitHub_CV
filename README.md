@@ -18,20 +18,20 @@ I have improved my basic coding skill for HTML, CSS while still trying to get fu
 ## **Projects**
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Golden SQ                    |  TDD process      | RUBY, Debugging   |
-| Chitter                      |  Twitter clone    | RUBY, SQL, HTML   |
-| MakerBNB                     |  AIRBNB clone     | RUBY, SQL, HTML, CSS   |
+| Acebook                    |  A Ruby on Rails team project to build a Facebook clone with continuous integration and deployment| RUBY, Debugging, Jest  |
+| Chitter                      |  Another Makers Academy weekend challenge, this time to produce a lightweight clone Twitter    | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS | RSpec
+| MakerBNB                     |  An AirBnB clone for which we taught ourselves Node in a week.     | Node.js, Express, CSS, HTML   |
 | DIVYY                        | Final project at Makers. It is a bill splitting Mobile App     | React, Javascript, Node, Expo, Realm, Taggun|
 
 ## **Skills**
--	Emphasizes work discipline and business safety with excellent customer feedback return.
--	Advanced knowledge and experience for product and process development with engineering solutions.
--	Highly focused and determination follow company targets.
--	Experience computer aided design, programming, automation, robot applications include office programs.
--	Analytical, problem-solving skills, communication.
--	Building confident relationships with customers with better work protocol
--	Sales/Business Development/Account Management experience.
--	Responsible and focus on the best results cost reduction with high profitable in optimum time frame.
+- **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in React and Realm with no prior experience.
+- **Adaptable** - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked on shoots around the world with huge diversity of crews and technologies. There is always a way to connect.
+- **Creative** - As a engineer, trained in fine art, I have learned to be creative with my problem-solving and try to look sideways when something seems intractable.
+- **Inquisitive** - I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
+- **Attention to detail** - I have developed an extremely keen eye for the fine details. This comes through in my coding, from seeing how the whole code fits together to finding that one tiny bug.
+- **Enthusiastic** - I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
+- **Team-player** - Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.
+- **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a hybrid student. This required discipline and focus – with a considerable helping of self-belief.
 -	Multi nationality citizenship British – Turkish - Bulgarian. (Visa free travel and no work restrictions to worldwide)
 
 ## **Work Experience**
