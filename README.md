@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Achievements](#achievements) | [Interests & Activities](#interests--activities)
+[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Tech stack](#tech-stack) | [Achievements](#achievements) | [Interests & Activities](#interests--activities)
 </div>
 
 ## **About me**
@@ -75,8 +75,14 @@ on test driven development, pair programming and Agile practices.
 - Bachelor of Mechnaical Enginering Constructions
 - Certified natural gas project and elavator  design and applications
 
-**Computer Information**
-HTML, CSS, Visual Fortran , Microsoft Windows (98, 2000, XP, Windows 7, Windows 8, Windows 10) Microsoft Office (Excel, Access, Word, Power Point, Outlook) and Photoshop, Financial software, CRM  Formula , QuickBooks, Adobe Photoshop, Microsoft FrontPage, Macromedia Dreamweaver
+**Tech Stack🤖**
+- JavaScript (React, Node.js, Express, MongoDB, jQuery, Jest, React Native, Cypress, Expo)
+- Ruby (Rails, Sinatra, RSpec)
+- SQL (PostgreSQL, TablePlus)
+- MongoDB (Realm)
+- HTML, CSS (Bootstrap, Material-UI, Materialize)
+- Heroku, Netlify, Figma, Miro
+- Git, GitHub (including Pages and Actions), GitLab
 Engineering Information: Ansys , SolidWorks , AutoCAD , Pro Engineering , Catia.
 
 **Certificate Information**
@@ -86,8 +92,8 @@ Engineering Information: Ansys , SolidWorks , AutoCAD , Pro Engineering , Catia.
 •	LPG Station Responsible Manager Certificate - Union of Chamber of Turkish Engineers
 •	Plumbing Competence Project Certificate - Union of Chamber of Turkish Engineers
 
-## Achievements
+## **Achievements**
  Under my management of social media and e-commerce our company received award follow by two years from DBD (The Department of Business Development ) the most developed company award. Being team member which was  placed third position to build up electric bike in sustainable energy competition.
- 
+
 ## **Interests & Activities**
  Outdoor trekking, Photography, Bowling, Snooker, Extreme sports, Technology Fairs, Golf, Travel, Crypto currency and blockchain technologies, Passion for Crypto Currency products and knowledge, Financial equity, Forex trading and advanced technical analyses.
