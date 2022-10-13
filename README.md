@@ -69,7 +69,7 @@ on test driven development, pair programming and Agile practices.
 
 *Master for International Business Management*
 
-**University of Balikesir(BAU), TURKEY (2004 to 2005)**
+**University of Balikesir(BAU), TURKEY (2001 to 2005)**
 
 *Enginering department*
 - Bachelor of Mechnaical Enginering Constructions
