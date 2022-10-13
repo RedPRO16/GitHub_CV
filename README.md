@@ -20,7 +20,7 @@ Who graduated from the engineering department and pursued with MBA in the Intern
 | ---------------------------- | ----------------- | ----------------- |
 | Chitter                      |  Another Makers Academy weekend challenge, this time to produce a lightweight clone Twitter    | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS, RSpec |
 | MakerBNB                     |  An AirBnB clone for which we taught ourselves Node in a week.     | Node.js, Express, CSS, HTML   |
-|Acebook                       |  A Ruby on Rails team project to build a Facebook clone with continuous integration and deployment| JavaScript, HTML, CSS, Handlebars, Heroku, Mongoose, Github Actions (CI/CD), MongoDB |
+|Axylotls-AceBook                       |  A Ruby on Rails team project to build a Facebook clone with continuous integration and deployment| JavaScript, HTML, CSS, Handlebars, Node, Express, MongoDB, Cypress, Jest, Github Actions (CI/CD)|
 | DIVYY                        | Final project at Makers. It is a bill splitting Mobile App     | React, Javascript, Node, Expo, Realm, Taggun|
 
 ## **Skills**👏
