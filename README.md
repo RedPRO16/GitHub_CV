@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Tech Stack](#tech-stack) | [Achievements](#achievements) | [Interests & Activities](#interests--activities)
+[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Tech Stack](#tech-stack) | [Achievements](#achievements) | [Interests & Activities](#achievements)
  
 </div>
 
@@ -20,9 +20,9 @@ I have improved my basic coding skill for HTML, CSS while still trying to get fu
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Acebook                    |  A Ruby on Rails team project to build a Facebook clone with continuous integration and deployment| RUBY, Debugging, Jest  |
-| Chitter                      |  Another Makers Academy weekend challenge, this time to produce a lightweight clone Twitter    | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS | RSpec
+| Chitter                      |  Another Makers Academy weekend challenge, this time to produce a lightweight clone Twitter    | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS, RSpec |
 | MakerBNB                     |  An AirBnB clone for which we taught ourselves Node in a week.     | Node.js, Express, CSS, HTML   |
+|Acebook                       |  A Ruby on Rails team project to build a Facebook clone with continuous integration and deployment| JavaScript, HTML, CSS, Handlebars, Heroku, Mongoose, Github Actions (CI/CD), MongoDB |
 | DIVYY                        | Final project at Makers. It is a bill splitting Mobile App     | React, Javascript, Node, Expo, Realm, Taggun|
 
 ## **Skills**👏
