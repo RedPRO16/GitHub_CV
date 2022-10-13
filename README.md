@@ -99,6 +99,6 @@ Engineering Information: Ansys , SolidWorks , AutoCAD , Pro Engineering , Catia.
  Under my management of social media and e-commerce our company received award follow by two years from DBD (The Department of Business Development ) the most developed company award. Being team member which was  placed third position to build up electric bike in sustainable energy competition.
 
 ## **Interests & Activities**💖🏌️‍♂️₿
- Outdoor trekking, Photography, Bowling, Snooker, Extreme sports, Technology Fairs, Golf, Travel, Crypto currency and blockchain technologies, Passion for Crypto Currency products and knowledge, Financial equity, Forex trading and advanced technical analyses.
+ Outdoor trekking, Photography, Bowling, Snooker, Extreme sports, Technology Fairs, Golf, Travel, Crypto currency and blockchain technologies, Web3 applications, Financial equity, Forex trading and advanced technical analyses.
  
  ✈️ **Travelling & languages:**  been 🇹🇷🇬🇧🇷🇺🇫🇷 🇬🇷🇧🇬🇶🇦🇦🇪🇭🇺🇮🇹 🇸🇪🇧🇪🇳🇱🇭🇰	Multi nationality citizenship British – Turkish - Bulgarian. (Visa free travel and no work restrictions to worldwide)
