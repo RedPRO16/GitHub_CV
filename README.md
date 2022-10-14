@@ -18,12 +18,12 @@ Who graduated from the engineering department and pursued with MBA in the Intern
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Chitter                      |  Another Makers Academy weekend challenge, this time to produce a lightweight clone Twitter    | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS, RSpec |
+| [Chitter](https://github.com/RedPRO16/chitter-challenge)                      |  Another Makers Academy weekend challenge, this time to produce a lightweight clone Twitter    | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS, RSpec |
 | MakerBNB                     |  An AirBnB clone for which we taught ourselves Node in a week.     | Node.js, Express, CSS, HTML   |
 | Thermostat                   |  There is a Weather app Api which by default gets the current temperature in London, this can be changed by using the search box to enter in another location to get the temperature of that location.     | JavaScript, Jasmine, Open Weather app Api  |
-|Axylotls-AceBook                       |  A Ruby on Rails team project to build a Facebook clone with continuous integration and deployment| JavaScript, HTML, CSS, Handlebars, Node, Express, MongoDB, Cypress, Jest, Github Actions (CI/CD)|
-| Bank tec test                        | Bank Test	A simple bank simulator application which is allows the user to deposits, withdraw funds and view their account statement.     | Ruby, irb, rspec, Rubocop, Simplecov, Javascript, Jasmine|
-| DIVYY                        | Final project at Makers. It is a bill splitting Mobile App     | React, Javascript, Node, Expo, Realm, Taggun|
+|[Axylotls-AceBook](https://github.com/RedPRO16/the-axylotls-acebook)                       |  A Ruby on Rails team project to build a Facebook clone with continuous integration and deployment| JavaScript, HTML, CSS, Handlebars, Node, Express, MongoDB, Cypress, Jest, Github Actions (CI/CD)|
+| [Bank tect test](https://github.com/RedPRO16/bank_tech_Ruby)                       | Bank Test	A simple bank simulator application which is allows the user to deposits, withdraw funds and view their account statement.     | Ruby, irb, rspec, Rubocop, Simplecov, Javascript, Jasmine|
+| [DIVYY](https://github.com/RedPRO16/divvy-app)                        | Final project at Makers. It is a bill splitting Mobile App     | React, React Native, Javascript, Node, Expo, Realm, Taggun|
 
 ## **Skills**👏
 - **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in React and Realm with no prior experience.
