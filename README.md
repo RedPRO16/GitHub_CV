@@ -65,9 +65,9 @@ Training for 16-weeks full-time with a leading European software development Boo
 on test driven development, pair programming and Agile practices.
 - Agile methodologies, XP values, Pair programming, Trello, Miro, Jira
 - Test driven development and behaviour driven development
-- Core Technologies: JavaScript, Ruby, Rails, React, Sinatra, jQuery, Node.js, HTML, CSS
-- Testing Frameworks: RSpec, Cabybara, Jasmine, Express, Jest, Enzyme, Cypress
-- Databases: PostgreSQL, SQL Server, MongoDB
+- Core Technologies: JavaScript, Ruby, Rails, React, Reacy Native, Sinatra, jQuery, Node.js, HTML, CSS
+- Testing Frameworks: RSpec, Jasmine, Express, Jest, Cypress
+- Databases: PostgreSQL, SQL Server, MongoDB, Node JS
 - Deployment: Heroku, Travis, CircleCI
 - Version Control: Git, Github
 
