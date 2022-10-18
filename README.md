@@ -12,7 +12,11 @@
 
 ## **About me**😄
 
-Who graduated from the engineering department and pursued with MBA in the International business management field. I used to work as an import and export manager for international companies. Since the Covid-19 restriction, I kicked my career in the tech field. I’ve been on a self-learning-to-code journey for a year and looking forward to speeding up this process within a supportive and friendly environment with an intensive bootcamp. I have improved my basic coding skill for HTML and CSS, while still trying to get further knowledge of blockchain and web3 applications of my interests. Therefore, I made a switch and start the software development bootcamp with Makers.
+Who graduated from the engineering department and pursued with MBA in the International business management field. I used to work as an import and export manager for international companies. Since the Covid-19 restriction, I kicked my career in the tech field from a mechanical engineer to a full stack software developer! 
+I have a passion for writing clean, test-driven code and am excited to start this new chapter of my professional career, whilst utilising the skills and approaches I’ve developed from both my engineering background, such as creative solutions to problem-solving, time management and attention to detail. Therefore, I made a switch and start an intensive software development bootcamp with Makers.
+Through Makers Academy, I have learned how vital planning and teamwork are to building an amazing product, and the fundamentals of a solid TDD practice.  I thrived in the CI/CD process, especially when working with Heroku. Where much of my cohort struggled with Heroku, I excelled and used this as an opportunity to help guide them through their stack trace. This not only gave me so much happiness to be collaborative, but it also allowed me to repay them for their guidance in my past struggles.
+
+My goal is to explore as much as about full-stack and then transfer into a specialised blockchain and web3 applications developer role.
 
 ## **Projects**👨‍💻
 
