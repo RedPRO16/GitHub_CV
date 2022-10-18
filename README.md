@@ -63,13 +63,12 @@ Project Engineer
 
 Training for 16-weeks full-time with a leading European software development Bootcamp, focusing
 on test driven development, pair programming and Agile practices.
-- Agile methodologies, XP values, Pair programming, Trello, Miro, Jira
-- Test driven development and behaviour driven development
-- Core Technologies: JavaScript, Ruby, Rails, React, Reacy Native, Sinatra, jQuery, Node.js, HTML, CSS
-- Testing Frameworks: RSpec, Jasmine, Express, Jest, Cypress
-- Databases: PostgreSQL, SQL Server, MongoDB, Node JS
-- Deployment: Heroku, Travis, CircleCI
-- Version Control: Git, Github
+- Used creativity and strategic thinking to create applications in several languages, including Ruby & JavaScript.
+- Through an analytical approach, carried out the extensive practice of TDD principles using RSpec, Jasmine, Jest & Cypress.
+- Applied architectural patterns including MVC and DDD.
+- Worked intensively in pairs and in different teams to develop and design applications.
+- Collaborated in different teams for each project to solve problems via critical thinking.
+- Learnt and applied Agile project management principles using GitHub,Miro and Trello.
 
 **UWIC (University of Wales) MBA (2010 to 2011)**
 
