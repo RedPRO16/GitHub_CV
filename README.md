@@ -96,6 +96,7 @@ on test driven development, pair programming and Agile practices.
 - HTML, CSS (Bootstrap, Material-UI, Materialize)
 - Heroku, Netlify, Figma, Miro
 - Git, GitHub (including Pages and Actions), GitLab
+
 Engineering Information: Ansys , SolidWorks , AutoCAD , Pro Engineering , Catia.
 
 ## **Achievements**🏆
