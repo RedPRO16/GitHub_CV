@@ -23,10 +23,11 @@ My goal is to explore as much as about full-stack and then transfer into a speci
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Chitter](https://github.com/RedPRO16/chitter-challenge)                      |  Another Makers Academy weekend challenge, this time to produce a lightweight clone Twitter    | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS, RSpec |
-| MakerBNB                     |  An AirBnB clone for which we taught ourselves Node in a week.     | Node.js, Express, CSS, HTML   |
+| MakerBNB                     |  An AirBnB clone for which we taught ourselves Node in a week. User authentication. List properties with available dates. Rent properties with booking requests. Manage your property portfolio by confirming or denying booking requests    | Ruby on Rails, JavaScript, jQuery, CSS, HTML, RSpec, Travis CI, Heroku   |
 | Thermostat                   |  There is a Weather app Api which by default gets the current temperature in London, this can be changed by using the search box to enter in another location to get the temperature of that location.     | JavaScript, Jasmine, Open Weather app Api  |
-|[Axylotls-AceBook](https://github.com/RedPRO16/the-axylotls-acebook)                       |  A Ruby on Rails team project to build a Facebook clone with continuous integration and deployment| JavaScript, HTML, CSS, Handlebars, Node, Express, MongoDB, Cypress, Jest, Github Actions (CI/CD)|
-| [Bank tect test](https://github.com/RedPRO16/bank_tech_Ruby)                       | Bank Test	A simple bank simulator application which is allows the user to deposits, withdraw funds and view their account statement.     | Ruby, irb, rspec, Rubocop, Simplecov, Javascript, Jasmine|
+|[Axylotls-AceBook](https://github.com/RedPRO16/the-axylotls-acebook)| User authentication. User walls, where users could add posts and then edit or delete their posts. Users can comment on posts and then edit or delete their comments| JavaScript, HTML, CSS, Handlebars, Node, Express, MongoDB, Cypress, Jest, Github Actions (CI/CD)|
+| [Bank tect test RUBY](https://github.com/RedPRO16/bank_tech_Ruby)                       | Bank Test	A simple bank simulator application which is allows the user to deposits, withdraw funds and view their account statement.     | Ruby, irb, rspec, Rubocop, Simplecov, Javascript, Jasmine|
+| [Bank tect test JS](https://github.com/RedPRO16/bank_tech_JS)                       | JavaScrip Bank Test	A simple bank simulator application which is allows the user to deposits, withdraw funds and view their account statement.     | JavaScript, Jest, Github Actions (CI/CD)|
 | [DIVYY](https://github.com/RedPRO16/divvy-app)                        | Final project at Makers. It is a bill splitting Mobile App     | React, React Native, Javascript, Node, Expo, Realm, Taggun|
 
 ## **Skills**👏
