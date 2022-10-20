@@ -54,9 +54,9 @@ Regional Sales Management
 **Albron Engineering & Design** (Jan 2020...)
 Project Engineer
 - Machinery Revision and CNC Machining.
--	Design-Machinery-Fixture -Consultancy.
--	Welding Steel Constructions.
--	Machinery Parts supplier for leading Automobile Industries.
+-	Design-Machinery-Fixture - Consultancy.
+-	Problem solving solution design and manufacturing.
+-	Project based teamwork and attention to details.
 
 ## **Education**📖
 **Makers Academy (Jun 2022 to Oct 2022)**
@@ -74,12 +74,21 @@ on test driven development, pair programming and Agile practices.
 **UWIC (University of Wales) MBA (2010 to 2011)**
 
 *Master for International Business Management*
+- Leadership/Management/Negotiation
+- Teamwork
+- Strategic Thinking
+- Ability to solve complex problems
+- Research and analysis
 
 **University of Balikesir(BAU), TURKEY (2001 to 2005)**
 
 *Enginering department*
-- Bachelor of Mechanical Engineering Constructions
-- Certified natural gas project and elevator design and applications
+- Process-driven
+- Attention to details
+- Problem-solving skill
+- Project-based teamwork
+- Critical thinking
+- Leadership
 
 **Certificate Information**
 •	AutoCAD Course – 2002/3 months - Union of Chamber of Turkish Engineers
