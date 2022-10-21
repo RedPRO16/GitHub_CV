@@ -22,12 +22,12 @@ My goal is to explore as much as about full-stack and then transfer into a speci
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [DIVYY](https://github.com/RedPRO16/divvy-app)                        | Final project at Makers. It is a bill splitting Mobile App to solve problem to share expense between freinds in restaurant.Divvy demo video: https://www.youtube.com/watch?v=zRn2Lerc43c from approx. between 16 - 30min in the video.(📃[PDF](https://github.com/RedPRO16/Divvy-app/blob/main/Divvy%20FINAL%20PROJECT%20pdf.pdf))  | React, React Native, Javascript, Node, Expo, Realm, Taggun|
 | [Chitter](https://github.com/RedPRO16/chitter-challenge)                      |  Another Makers Academy weekend challenge, this time to produce a lightweight clone Twitter    | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), Bootstrap CSS, RSpec |
 |[Thermostat](https://github.com/RedPRO16/Termostat-JS) |  There is a Weather app Api which by default gets the current temperature in London, this can be changed by using the search box to enter in another location to get the temperature of that location.     | JavaScript, Jasmine, Open Weather app Api  |
 |[Axylotls-AceBook](https://github.com/RedPRO16/the-axylotls-acebook)| User authentication. User walls, where users could add posts and then edit or delete their posts. Users can comment on posts and then edit or delete their comments| JavaScript, HTML, CSS, Handlebars, Node, Express, MongoDB, Cypress, Jest, Github Actions (CI/CD)|
 | [Bank tect test RUBY](https://github.com/RedPRO16/bank_tech_Ruby)                       | Bank Test	A simple bank simulator application which is allows the user to deposits, withdraw funds and view their account statement.     | Ruby, irb, rspec, Rubocop, Simplecov, Javascript, Jasmine|
 | [Bank tect test JS](https://github.com/RedPRO16/bank_tech_JS)                       | JavaScrip Bank Test	A simple bank simulator application which is allows the user to deposits, withdraw funds and view their account statement.     | JavaScript, Jest, Github Actions (CI/CD)|
-| [DIVYY](https://github.com/RedPRO16/divvy-app)                        | Final project at Makers. It is a bill splitting Mobile App     | React, React Native, Javascript, Node, Expo, Realm, Taggun|
 
 ## **Skills**👏
 - **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project in React and Realm with no prior experience.
