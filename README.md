@@ -64,11 +64,13 @@ Project Engineer
 Training for 16-weeks full-time with a leading European software development Bootcamp, focusing
 on test driven development, pair programming and Agile practices.
 - Used creativity and strategic thinking to create applications in several languages, including Ruby & JavaScript.
-- Through an analytical approach, carried out the extensive practice of TDD principles using RSpec, Jasmine, Jest & Cypress.
-- Applied architectural patterns including MVC and DDD.
+- Through an analytical approach, carried out the extensive practice of TDD principles ability to write unit, integration and end to end tests using RSpec, Jasmine, Jest & Cypress.
+- Produced quality code using Test Driven Development (TDD), Single Responsibility Principle (SRP) and model, view and controller (MVC)
 - Worked intensively in pairs and in different teams to develop and design applications.
 - Collaborated in different teams for each project to solve problems via critical thinking.
 - Learnt and applied Agile project management principles using GitHub,Miro and Trello.
+- Built document-based and relational databases and designed schemas using MongoDB and SQL.
+- Learnt key development principles Behaviour Driven Development (BDD), SOLID, DRY.
 
 **UWIC (University of Wales) MBA (2010 to 2011)**
 
