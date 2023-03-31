@@ -58,7 +58,7 @@ Project Engineer
 -	Project based teamwork and attention to details.
 
 ## **Education**📖
-**Makers Academy (Jun 2022 to Oct 2022)**
+**Makers Academy (Jun 2021 to Oct 2021)**
 *Full Stack Development*
 
 Training for 16-weeks full-time with a leading European software development Bootcamp, focusing
